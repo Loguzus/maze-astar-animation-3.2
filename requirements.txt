@@ -1,0 +1,2 @@
+﻿# Используется стандартная библиотека Python (tkinter, heapq, collections, json)
+# Требуемая версия: Python >= 3.9
